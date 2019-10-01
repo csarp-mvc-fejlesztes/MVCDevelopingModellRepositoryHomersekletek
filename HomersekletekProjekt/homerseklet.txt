@@ -1,0 +1,11 @@
+Szeged 5,2
+Miskolc 6,8
+Budapest 4,8
+Debrecen 3,7
+Szeged -2,4
+Miskolc -2,9
+Budapest -2,2
+Szeged 3,5
+Miskolc 4,7
+Budapest 1,8
+Debrecen 3,3
